@@ -1,0 +1,3 @@
+#showtooltip
+/click ActionButton10
+/cast [mod:alt,@player] [help,@mouseover] [help] Regrowth; [harm] [mod:ctrl] Wrath
