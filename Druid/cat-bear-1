@@ -1,0 +1,7 @@
+#showtooltip
+/cast [form:1/3, mod:alt, @player] Regrowth
+/cast [form:1] Feral Charge
+/cast [form:3, stealth] Pounce
+/cast [form:3, nostealth, nocombat] !Prowl
+/click [form:3, nostealth, combat] ActionButton10
+/cast [form:3, nostealth, combat] Shred
