@@ -1,0 +1,7 @@
+#showtooltip
+/startattack [nomod:alt,nostealth,form:1/3]
+/click ActionButton10
+/cast [form:1/3, mod:alt, @player] Rejuvenation
+/cast [form:1] Swipe
+/cast [form:3, stealth] Ravage
+/cast [form:3, nostealth] Rake
