@@ -1,0 +1,5 @@
+#showtooltip
+/dismount [mounted]
+/use [mod:ctrl] Black War Kodo
+/cancelform [mod: alt]
+/cast [mod: shift] Flight Form(Shapeshift); [nomod, swimming] !Aquatic Form(Shapeshift); [nomod, noswimming, outdoors] !Travel Form(Shapeshift)
