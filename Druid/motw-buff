@@ -1,0 +1,4 @@
+#showtooltip
+/cast [@mouseover, help, mod:ctrl] Gift of the Wild; [@mouseover, help] Mark of the Wild
+/stopmacro [@mouseover, help]
+/castsequence reset=5 Omen of Clarity, Mark of the Wild
