@@ -1,0 +1,6 @@
+#showtooltip
+/startattack [nomod:alt, form:1/3]
+/cast [form:1/3, mod:alt, @player] Regrowth
+/cast [form:1] Mangle (Bear)
+/cast [form:3, stealth] Pounce
+/cast [form:3, nostealth] Mangle (Cat)
