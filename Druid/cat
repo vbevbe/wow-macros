@@ -1,0 +1,7 @@
+#showtooltip
+/cast [noform] !Cat Form
+/cast [form: 1, nomod] Maul
+/cast [form: 1, mod] !Cat Form
+/cast [form: 2/4/5] !Cat Form
+/cast [form: 3, nomod: alt] !Cat Form
+/cast [form: 3, mod: alt] Dash
