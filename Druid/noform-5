@@ -1,0 +1,4 @@
+#showtooltip
+/cancelform [mod:alt][form:2/4]
+/click ActionButton9
+/cast [mod:alt,@player] [nomod,help,@mouseover]  [nomod,help] [nomod,noexists,@player] Healing Touch(Rank 6); [harm,noform:1/3] [mod:ctrl] Starfire
