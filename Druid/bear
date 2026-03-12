@@ -1,0 +1,4 @@
+#showtooltip
+/dismount [mounted]
+/cast [noform: 1] [form: 1, mod: shift] !Dire Bear Form
+/cast [mod: alt, form: 1] Enrage
