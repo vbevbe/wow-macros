@@ -1,0 +1,4 @@
+#showtooltip
+/use [mod:shift] 13
+/click ActionButton10
+/cast [mod:alt,@player] [help,@mouseover] [help] Rejuvenation; [harm] [mod:ctrl] Moonfire
