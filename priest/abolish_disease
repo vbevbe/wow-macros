@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:alt,@player] [help,@mouseover] [help]  Abolish Disease; [noexists] Abolish Disease
+/stopspelltarget
