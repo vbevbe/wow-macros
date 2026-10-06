@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:alt,@player] [help,@mouseover] [help] Dispel Magic; [harm] [mod:ctrl] Dispel Magic; [noexists] Dispel Magic
+/stopspelltarget
