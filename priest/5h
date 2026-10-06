@@ -1,0 +1,4 @@
+#showtooltip Greater Heal
+# /use [mod:alt,@player] [help,@mouseover] [help] [noexists] Hazza'rah's Charm of Healing
+/cast [mod:alt,@player] [help,@mouseover] [help] [noexists] Greater Heal
+/stopspelltarget
