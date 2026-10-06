@@ -1,0 +1,5 @@
+#showtooltip
+/cast [mod:alt,@player] [help,@mouseover] [help] [noexists] Greater Heal
+/stopcasting [harm] [mod:ctrl]
+/cast [harm] [mod:ctrl] Silence
+/stopspelltarget
