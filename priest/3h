@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:alt,@player] [help,@mouseover] [help] Renew; [harm] [mod:ctrl] Mind Blast; [noexists] Renew
+/stopspelltarget
