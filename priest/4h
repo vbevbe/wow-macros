@@ -1,0 +1,3 @@
+#showtooltip
+/cast [mod:alt,@player] [help,@mouseover] [help] Heal; [harm] [mod:ctrl] Smite; [noexists] Heal
+/stopspelltarget
