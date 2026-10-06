@@ -1,0 +1,4 @@
+#showtooltip
+/cast [mod:alt,@player] [help,@mouseover] [help] [noexists] Power Word: Shield
+/castsequence [harm] [mod:ctrl] reset=target,10 Shadow Word: Pain, Vampiric Embrace, Vampiric Touch
+/stopspelltarget
