@@ -1,2 +1,2 @@
 #showtooltip
-/cast [mod:alt,@player] [help,@mouseover] [help] Remove Curse
+/cast [mod:alt,@player] [help,@mouseover] [help] Remove Curse; [harm] [harm,@mouseover] Entangling Roots
